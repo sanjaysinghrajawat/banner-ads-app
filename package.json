@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^1.7.1",
+    "next": "14.2.3",
+    "rc-slider": "^10.6.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-multi-carousel": "^2.8.5",
+    "react-toastify": "^10.0.5",
+    "swiper": "^11.1.1"
   },
   "devDependencies": {
     "postcss": "^8",
